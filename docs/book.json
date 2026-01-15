@@ -1,0 +1,14 @@
+{
+  "root": ".",
+  "plugins": [
+    "-sharing"
+  ],
+  "pluginsConfig": {},
+  "variables": {
+    "version": "1.0.0",
+    "title": "LUNIA Legal Documentation"
+  },
+  "links": {
+    "gitbook": false
+  }
+}

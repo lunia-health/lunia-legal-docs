@@ -1,0 +1,13 @@
+{
+  "name": "lunia-legal-documentation",
+  "version": "1.0.0",
+  "description": "LUNIA Legal Documentation - Privacy Policy, Terms of Service, and Health App Guidance.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx honkit build ./docs ./docs/_book",
+    "serve": "npx honkit serve ./docs"
+  },
+  "devDependencies": {
+    "honkit": "^3.7.0"
+  }
+}
