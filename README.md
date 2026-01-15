@@ -31,8 +31,8 @@ When updating legal documents:
 ## 🔗 Links
 
 - **Live Documentation**: [Will be available after first deployment]
-- **LUNIA Website**: [https://lunia.web.app](https://lunia.web.app)
-- **Contact**: legal@lunia.pt
+- **LUNIA Website**: [https://lunia.health](https://lunia.web.app)
+- **Contact**: hello@lunia.health
 
 ## 📄 License
 
