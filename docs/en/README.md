@@ -10,9 +10,6 @@ Learn how LUNIA collects, uses, and protects your personal and health data.
 ### [Terms of Service](terms-of-service.md)
 Read the complete terms and conditions for using the LUNIA platform.
 
-### [Health App Legal Guidance](health-app-guidance.md)
-Additional legal information specific to using LUNIA as a health tracking application.
-
 ---
 
 ## Quick Navigation

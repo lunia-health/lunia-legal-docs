@@ -12,12 +12,10 @@ This repository contains the legal documentation for the LUNIA Women's Health Pl
 ### English
 - [Privacy Policy](docs/en/privacy-policy.md)
 - [Terms of Service](docs/en/terms-of-service.md)
-- [Health App Legal Guidance](docs/en/health-app-guidance.md)
 
 ### Português
 - [Política de Privacidade](docs/pt/privacy-policy.md) _(translation pending)_
 - [Termos de Serviço](docs/pt/terms-of-service.md) _(translation pending)_
-- [Orientação Legal para App de Saúde](docs/pt/health-app-guidance.md) _(translation pending)_
 
 ## 📝 Contributing
 
