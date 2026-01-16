@@ -22,7 +22,6 @@ LUNIA is a comprehensive women's health platform designed to empower women throu
 
 * **Privacy Policy**: How we collect, use, and protect your personal and health data.
 * **Terms of Service**: The legal agreement between LUNIA and our users.
-* **Health App Legal Guidance**: Additional guidance for using LUNIA as a health tracking application.
 
 ---
 

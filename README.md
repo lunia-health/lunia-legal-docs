@@ -1,7 +1,7 @@
 # LUNIA Legal Documentation
 
-This repository contains the legal documentation for the LUNIA Women's Health Platform, including Privacy Policy, Terms of Service, and Health App Legal Guidance.
 
+This repository contains the legal documentation for the LUNIA Women's Health Platform, including Privacy Policy, Terms of Service.
 ## 📚 Documentation Structure
 
 - **English** (`docs/en/`)
