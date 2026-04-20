@@ -2,21 +2,27 @@
 
 Welcome to the English version of LUNIA's legal documentation.
 
-## Available Documents
+## Landing Page
 
 ### [Privacy Policy](privacy-policy.md)
-Learn how LUNIA collects, uses, and protects your personal and health data.
+How LUNIA collects, uses, and protects your personal data during early access registration.
 
 ### [Terms of Service](terms-of-service.md)
-Read the complete terms and conditions for using the LUNIA platform.
+Terms and conditions for using the LUNIA website and early access waitlist.
+
+## App
+
+### [App Privacy Policy](app-privacy-policy.md)
+How the LUNIA app collects, uses, and protects your personal and health data — including symptom tracking, AI conversations, wearables, and all consent categories.
+
+### [App Terms of Service](app-terms-of-service.md)
+Terms and conditions for using the LUNIA mobile application.
 
 ---
-
-## Quick Navigation
 
 * [🏠 Back to Home](../)
-* [🇵🇹 Português Version](../pt/)
+* [🇵🇹 Versão em Português](../pt/)
 
 ---
 
-For questions about these legal documents, please contact us at: legal@lunia.pt
+For questions about these documents, contact us at: hello@lunia.health

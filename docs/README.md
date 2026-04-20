@@ -1,7 +1,3 @@
-# Welcome to LUNIA Legal Documentation
-
-This is the complete legal documentation for the **LUNIA Women's Health Platform**.
-
 # LUNIA Legal Documentation
 
 <div style="text-align: center; padding: 20px; background: #f8f9fa; border-radius: 8px; margin-bottom: 20px;">
@@ -14,32 +10,27 @@ This is the complete legal documentation for the **LUNIA Women's Health Platform
 
 ## About LUNIA
 
-LUNIA is a comprehensive women's health platform designed to empower women throughout their health journey with personalized insights, cycle tracking, and AI-powered support.
+LUNIA is a women's health companion designed to empower women throughout perimenopause and menopause with personalised insights, symptom tracking, and AI-powered support.
 
 ---
 
-## What you'll find here:
+## What you'll find here
 
-* **Privacy Policy**: How we collect, use, and protect your personal and health data.
-* **Terms of Service**: The legal agreement between LUNIA and our users.
+### Landing Page
+* **Privacy Policy** — how we handle data collected during early access registration
+* **Terms of Service** — terms for using the LUNIA website and waitlist
+
+### App
+* **App Privacy Policy** — full data policy for the LUNIA mobile app: health data, AI conversations, wearables, consent categories, GDPR rights
+* **App Terms of Service** — terms for using the LUNIA mobile application
 
 ---
 
 ## Languages
 
-This documentation is available in the following languages:
-
 * **[English](en/)**
 * **[Português](pt/)**
 
-Please select your preferred language to get started.
-
 ---
 
-## About LUNIA
-
-LUNIA is a women's health platform that combines cycle tracking, symptom monitoring, and AI-powered insights to help women understand and manage their health. Our goal is to provide a supportive and informative experience throughout every stage of a woman's health journey.
-
----
-
-For more information, please visit our [official website](https://lunia.web.app).
+For more information, visit our [official website](https://lunia.health).

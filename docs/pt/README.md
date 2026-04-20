@@ -1,22 +1,28 @@
 # Documentação Legal da LUNIA (Português)
 
-Bem-vindo à versão em português da documentação legal da LUNIA.
+Bem-vinda à versão em português da documentação legal da LUNIA.
 
-## Documentos Disponíveis
+## Página de Entrada
 
 ### [Política de Privacidade](privacy-policy.md)
-Saiba como a LUNIA recolhe, usa e protege os teus dados pessoais e de saúde.
+Como a LUNIA recolhe, utiliza e protege os teus dados pessoais durante o registo de acesso antecipado.
 
 ### [Termos de Serviço](terms-of-service.md)
-Lê os termos e condições completos para usar a plataforma LUNIA.
+Termos e condições para utilizar o website LUNIA e a lista de espera de acesso antecipado.
+
+## App
+
+### [Política de Privacidade da App](app-privacy-policy.md)
+Como a app LUNIA recolhe, utiliza e protege os teus dados pessoais e de saúde — incluindo registo de sintomas, conversas com IA, wearables e todas as categorias de consentimento.
+
+### [Termos de Serviço da App](app-terms-of-service.md)
+Termos e condições para utilizar a aplicação móvel LUNIA.
 
 ---
-
-## Navegação Rápida
 
 * [🏠 Voltar ao Início](../)
 * [🇬🇧 English Version](../en/)
 
 ---
 
-Para questões sobre estes documentos legais, contacta-nos em: legal@lunia.pt
+Para questões sobre estes documentos, contacta-nos em: hello@lunia.health
