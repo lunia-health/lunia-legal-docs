@@ -166,19 +166,30 @@ If you are located in a jurisdiction with specific privacy laws, you may have ad
 
 ## 7. International Data Transfers
 
-If you are accessing our Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States and other countries where our service providers operate. These countries may have data protection laws that differ from the laws of your country.
+LUNIA is based in Portugal (European Union). Your data is processed primarily within the EU.
 
-By using our Website, you consent to the transfer of your information to the United States and other countries as necessary to provide our services.
+We use Google Firebase for database storage and analytics. Google LLC is based in the United States. Transfers of your personal data to Google are governed by Google's Standard Contractual Clauses, which provide appropriate safeguards under GDPR Chapter V. By submitting the early access form, you consent to this transfer.
 
-## 8. Children's Privacy
+We also use ipapi.co (UK/EU-based) for IP geolocation. No other international transfers occur at the website registration stage.
+
+## 8. Data Breach Notification
+
+In the event of a personal data breach that poses a risk to your rights and freedoms, we will:
+- Notify the Portuguese Data Protection Authority (CNPD) within 72 hours of becoming aware of the breach
+- Notify affected users without undue delay if the breach poses a high risk to their rights and freedoms
+- Document the breach, its effects, and the remedial actions taken
+
+To report a suspected security issue, contact hello@lunia.health.
+
+## 9. Children's Privacy
 
 Our Website is not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13, we will delete that information promptly.
 
 If you are under 18, please obtain your parent or guardian's permission before providing any personal information to us.
 
-## 9. Cookies and Tracking Technologies
+## 10. Cookies and Tracking Technologies
 
-### 9.1 Cookies We Use
+### 10.1 Cookies We Use
 
 Our Website uses cookies and similar tracking technologies:
 
@@ -186,11 +197,11 @@ Our Website uses cookies and similar tracking technologies:
 - **Analytics Cookies**: Used by Firebase Analytics to understand Website usage
 - **Functional Cookies**: Remember your preferences and settings
 
-### 9.2 Managing Cookies
+### 10.2 Managing Cookies
 
 Most browsers allow you to control cookies through settings. However, disabling cookies may limit your ability to use certain features of our Website.
 
-## 10. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. When we make changes, we will:
 - Update the "Last Updated" date at the top of this policy
@@ -199,7 +210,7 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 
 Your continued use of the Website after changes are posted constitutes your acceptance of the updated Privacy Policy.
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
@@ -207,12 +218,12 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 
 **Response Time**: We will respond to your inquiry within 30 days.
 
-## 12. Important Notice About Future LUNIA Health Platform
+## 13. Important Notice About Future LUNIA Health Platform
 
 This Privacy Policy applies ONLY to the current Website and early access registration form.
 
 When the LUNIA health platform application launches, it will have a separate, comprehensive Privacy Policy that addresses:
-- Health information collection and use (potentially subject to HIPAA, GDPR health data provisions, and other regulations)
+- Health information collection and use under GDPR Article 9 (special category health data) and other applicable regulations
 - AI companion interactions
 - Cycle tracking and symptom data
 - Additional features and services

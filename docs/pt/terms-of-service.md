@@ -136,15 +136,23 @@ A nossa responsabilidade total para contigo por quaisquer reclamações decorren
 
 ## Resolução de Disputas
 
+### Lei Aplicável
+
+Estes Termos são regidos e interpretados de acordo com as leis de Portugal e, onde aplicável, com o direito da União Europeia.
+
 ### Resolução Informal Primeiro
 
-Antes de apresentar uma disputa formal, concordas em contactar-nos em hello@lunia.health e tentar resolver a disputa informalmente. Se uma disputa não for resolvida dentro de 60 dias, tu ou nós podemos iniciar um procedimento formal.
+Antes de apresentar uma disputa formal, concordas em contactar-nos em hello@lunia.health e tentar resolver a disputa informalmente. Tentaremos resolver a disputa informalmente contactando-te por email.
 
-### Acordo de Arbitragem
+Se uma disputa não for resolvida dentro de 60 dias, tu ou nós podemos iniciar um procedimento formal.
 
-Tu e a LUNIA concordam que qualquer disputa será resolvida através de arbitragem vinculativa, em vez de tribunal, exceto que podes apresentar reclamações em tribunal de pequenas causas ou podemos procurar alívio equitativo por violação de propriedade intelectual.
+### Resolução Alternativa de Litígios
 
-**Renúncia a Ação Coletiva:** Quaisquer procedimentos serão conduzidos numa base individual e não como uma ação coletiva, consolidada ou representativa.
+Se não for possível resolver diretamente uma reclamação no prazo de 60 dias, podes utilizar a plataforma de Resolução de Litígios Online (RLL) da UE em https://ec.europa.eu/consumers/odr. Para consumidoras da UE, a resolução alternativa de litígios através de uma entidade de RAL certificada pode também estar disponível.
+
+### Jurisdição e Foro
+
+Qualquer ação ou procedimento legal decorrente ou relacionado com estes Termos deve ser intentado exclusivamente nos tribunais de Lisboa, Portugal. Para consumidoras da UE, isto não afeta o teu direito de intentar ação nos tribunais do teu país de residência ao abrigo da legislação de proteção do consumidor da UE aplicável.
 
 ## Informação de Contacto
 
@@ -164,7 +172,7 @@ Quando a aplicação da plataforma de saúde LUNIA for lançada, serás obrigada
 - Interações com a companheira de IA
 - Tratamento de dados para informação de saúde sensível
 - Isenções de responsabilidade e limitações médicas
-- Conformidade regulatória (HIPAA, RGPD, etc.)
+- Conformidade regulatória ao abrigo do RGPD e outros regulamentos aplicáveis
 
 Não confies nestes Termos para qualquer uso futuro da aplicação da plataforma de saúde LUNIA.
 

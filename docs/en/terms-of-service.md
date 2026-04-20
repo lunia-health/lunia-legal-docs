@@ -284,7 +284,7 @@ Upon termination:
 
 ### 15.1 Governing Law
 
-These Terms are governed by and construed in accordance with the laws of [YOUR JURISDICTION], without regard to its conflict of law provisions.
+These Terms are governed by and construed in accordance with the laws of Portugal and, where applicable, European Union law, without regard to its conflict of law provisions.
 
 ### 15.2 Informal Resolution
 
@@ -292,29 +292,13 @@ Before filing a formal dispute, you agree to contact us at hello@lunia.health an
 
 If a dispute is not resolved within 60 days of submission, you or we may bring a formal proceeding.
 
-### 15.3 Arbitration Agreement
+### 15.3 Alternative Dispute Resolution
 
-**PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS.**
-
-You and LUNIA agree that any dispute arising out of or relating to these Terms or the Website will be resolved through binding arbitration, rather than in court, except that:
-- You may assert claims in small claims court if your claims qualify
-- You or we may seek equitable relief in court for infringement or misuse of intellectual property rights
-
-**Arbitration Process**:
-- Arbitration will be conducted by a neutral arbitrator in accordance with the rules of [ARBITRATION ORGANIZATION]
-- The arbitrator's decision will be final and binding
-- Judgment on the arbitration award may be entered in any court with jurisdiction
-
-**Class Action Waiver**:
-You and LUNIA agree that any proceedings to resolve disputes will be conducted on an individual basis and not as a class, consolidated, or representative action.
+If we cannot resolve a complaint directly within 60 days, you may use the EU Online Dispute Resolution (ODR) platform at https://ec.europa.eu/consumers/odr. For EU consumers, alternative dispute resolution through a certified ADR entity may also be available.
 
 ### 15.4 Jurisdiction and Venue
 
-If arbitration does not apply or is found unenforceable, you agree that any legal action or proceeding will be brought exclusively in the courts located in [YOUR JURISDICTION], and you consent to the jurisdiction of such courts.
-
-### 15.5 Opt-Out of Arbitration
-
-You may opt out of the arbitration agreement by sending written notice to hello@lunia.health within 30 days of first accepting these Terms. Your notice must include your name, email address, and a clear statement that you wish to opt out of the arbitration agreement.
+Any legal action or proceeding arising out of or relating to these Terms shall be brought exclusively in the courts of Lisbon, Portugal. For EU consumers, this does not affect your right to bring proceedings before the courts of your country of residence under applicable EU consumer protection law.
 
 ## 16. General Provisions
 

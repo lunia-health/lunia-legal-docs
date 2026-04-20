@@ -103,7 +103,20 @@ Dependendo da tua localização, podes ter direitos adicionais ao abrigo do RGPD
 
 ## Transferências Internacionais de Dados
 
-Se estás a aceder ao nosso Website fora dos Estados Unidos, tem em conta que a tua informação pode ser transferida, armazenada e processada nos Estados Unidos e noutros países onde os nossos fornecedores de serviços operam. Ao usar o nosso Website, consentes com a transferência da tua informação conforme necessário para fornecer os nossos serviços.
+A LUNIA está sediada em Portugal (União Europeia). Os teus dados são processados principalmente dentro da UE.
+
+Utilizamos o Google Firebase para armazenamento de base de dados e análise. A Google LLC está sediada nos Estados Unidos. As transferências dos teus dados pessoais para a Google são regidas pelas Cláusulas Contratuais Padrão da Google, que fornecem salvaguardas adequadas ao abrigo do Capítulo V do RGPD. Ao enviar o formulário de acesso antecipado, consentes com esta transferência.
+
+Utilizamos também o ipapi.co (sediado no Reino Unido/UE) para geolocalização de endereço IP. Não ocorrem outras transferências internacionais durante a fase de registo no website.
+
+## Notificação de Violação de Dados
+
+Em caso de violação de dados pessoais que represente um risco para os teus direitos e liberdades, iremos:
+- Notificar a Comissão Nacional de Proteção de Dados (CNPD) no prazo de 72 horas após termos conhecimento da violação
+- Notificar as utilizadoras afetadas sem demora injustificada se a violação representar risco elevado para os seus direitos e liberdades
+- Documentar a violação, os seus efeitos e as medidas corretivas tomadas
+
+Para reportar um problema de segurança, contacta hello@lunia.health.
 
 ## Privacidade de Crianças
 
@@ -125,7 +138,7 @@ Esta Política de Privacidade aplica-se **APENAS** ao Website atual e ao formul�
 
 Quando a aplicação da plataforma de saúde LUNIA for lançada, terá uma Política de Privacidade separada e abrangente que abordará:
 
-- Recolha e uso de informação de saúde (potencialmente sujeita a HIPAA, disposições de dados de saúde do RGPD e outros regulamentos)
+- Recolha e uso de informação de saúde ao abrigo do Artigo 9.º do RGPD (dados de saúde de categoria especial) e outros regulamentos aplicáveis
 - Interações com a companheira de IA
 - Acompanhamento de ciclo e dados de sintomas
 - Funcionalidades e serviços adicionais
