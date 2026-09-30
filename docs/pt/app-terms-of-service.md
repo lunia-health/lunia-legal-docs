@@ -1,6 +1,6 @@
-# Termos de Serviço — App LUNIA
+# Termos de Serviço
 
-**Última Atualização: 16 de abril de 2026**
+_Última atualização: 16 de abril de 2026_
 
 ## 1. Âmbito
 
@@ -10,29 +10,29 @@ Estes Termos de Serviço ("Termos") regem a utilização da aplicação móvel L
 
 A LUNIA é uma companheira IA empática desenhada para mulheres que experienciam a perimenopausa e a menopausa. O Serviço inclui:
 
-- **Companheira IA (Luni)**: IA conversacional que ajuda a compreender sintomas, acompanhar padrões e preparar consultas médicas. A Luni fornece informação baseada em literatura científica publicada — NÃO fornece diagnósticos médicos, prescrições ou recomendações de tratamento.
-- **Registo de Sintomas e Ciclo**: Registe sintomas, dados do ciclo menstrual, estados emocionais e padrões de saúde ao longo do tempo.
-- **Integração com Wearables**: Sincronização opcional com Apple HealthKit e Google Health Connect para correlacionar sono, frequência cardíaca, passos e outros dados biométricos com os seus sintomas.
-- **Relatórios Clínicos**: Gere relatórios estruturados para partilhar com o seu profissional de saúde, incluindo cronologias de sintomas e perguntas sugeridas pela IA.
-- **Fórum Comunitário**: Participação anónima ou identificada numa comunidade de apoio moderada entre pares.
-- **Conteúdo Educativo**: Informação de saúde curada e recursos de autocuidado.
+- Companheira IA (Luni): IA conversacional que ajuda a compreender sintomas, acompanhar padrões e preparar consultas médicas. A Luni fornece informação baseada em literatura científica publicada — NÃO fornece diagnósticos médicos, prescrições ou recomendações de tratamento.
+- Registo de Sintomas e Ciclo: Registe sintomas, dados do ciclo menstrual, estados emocionais e padrões de saúde ao longo do tempo.
+- Integração com Wearables: Sincronização opcional com Apple HealthKit e Google Health Connect para correlacionar sono, frequência cardíaca, passos e outros dados biométricos com os seus sintomas.
+- Relatórios Clínicos: Gere relatórios estruturados para partilhar com o seu profissional de saúde, incluindo cronologias de sintomas e perguntas sugeridas pela IA.
+- Fórum Comunitário: Participação anónima ou identificada numa comunidade de apoio moderada entre pares.
+- Conteúdo Educativo: Informação de saúde curada e recursos de autocuidado.
 
 ## 3. Aviso Médico
 
-**O SERVIÇO NÃO É UM DISPOSITIVO MÉDICO E NÃO SE DESTINA A DIAGNOSTICAR, TRATAR, CURAR OU PREVENIR QUALQUER DOENÇA OU CONDIÇÃO MÉDICA.**
-
-A LUNIA fornece conteúdo informativo baseado em literatura científica publicada, apenas para fins educativos. A companheira IA (Luni) não é uma profissional de saúde e não pode:
+O SERVIÇO NÃO É UM DISPOSITIVO MÉDICO E NÃO SE DESTINA A DIAGNOSTICAR, TRATAR, CURAR OU PREVENIR QUALQUER DOENÇA OU CONDIÇÃO MÉDICA.
 
 - Diagnosticar condições médicas
 - Prescrever medicamentos ou tratamentos
 - Fornecer aconselhamento médico de emergência
 - Substituir uma consulta médica profissional
 
+A LUNIA fornece conteúdo informativo baseado em literatura científica publicada, apenas para fins educativos. A companheira IA (Luni) não é uma profissional de saúde e não pode:
+
 Consulte sempre um profissional de saúde qualificado antes de tomar decisões sobre a sua saúde. Em caso de emergência médica, ligue imediatamente para os serviços de emergência (112 na UE, SNS 24 / 808 24 24 24 em Portugal).
 
 ## 4. Elegibilidade
 
-A app LUNIA foi concebida para mulheres adultas. Para utilizar o Serviço, deve ter pelo menos 16 anos de idade (em conformidade com o Art. 8.º do RGPD para dados de saúde), possuir capacidade legal para concordar com estes Termos e não ter sido previamente suspensa ou removida do Serviço. Se tiver entre 16 e 18 anos, necessita de autorização de um representante legal.
+A app LUNIA foi concebida para mulheres adultas. Para utilizar o Serviço, deve ter pelo menos 18 anos de idade, possuir capacidade legal para concordar com estes Termos e não ter sido previamente suspensa ou removida do Serviço.
 
 ## 5. A Sua Conta
 
@@ -40,22 +40,24 @@ Para utilizar a App, é necessário criar uma conta. É responsável por manter 
 
 ## 6. Dados de Saúde e Consentimento
 
-O Serviço processa dados de saúde de categoria especial conforme definido pelo Artigo 9.º do RGPD. Isto inclui os seus sintomas, informação do ciclo menstrual, estados emocionais, dados biométricos de wearables e conteúdo de conversas com IA relacionado com a sua saúde. Antes de processar quaisquer dados de saúde, obtemos o seu consentimento explícito através do ecrã de consentimento de privacidade na app. Pode retirar o consentimento a qualquer momento em **Perfil → Definições de Privacidade**.
+O Serviço processa dados de saúde de categoria especial conforme definido pelo Artigo 9.º do RGPD. Isto inclui os seus sintomas, informação do ciclo menstrual, estados emocionais, dados biométricos de wearables e conteúdo de conversas com IA relacionado com a sua saúde. Antes de processar quaisquer dados de saúde, obtemos o seu consentimento explícito através do ecrã de consentimento de privacidade na app. Pode retirar o consentimento a qualquer momento em Perfil → Definições de Privacidade.
 
 ## 7. Companheira IA (Luni)
 
 Ao utilizar a funcionalidade de companheira IA, compreende e aceita que:
 
-- **A Luni não é humana.** As respostas são geradas por modelos de IA treinados com literatura científica e informação de saúde.
-- **As respostas podem ser imprecisas.** O conteúdo gerado por IA pode conter erros. Verifique sempre informação de saúde com um profissional qualificado.
-- **Deteção de emergências.** O Serviço inclui deteção automática de palavras-chave de emergência. Quando detetadas, a conversa é pausada e são apresentados contactos de emergência (112, SNS 24). Isto não substitui ligar diretamente para os serviços de emergência.
-- **Moderação de conteúdo.** As respostas da IA são filtradas para remover linguagem diagnóstica, sugestões de prescrição e outro conteúdo potencialmente prejudicial.
-- **Sem garantias de memória.** Embora o Serviço mantenha o histórico de conversas, as respostas da IA podem nem sempre refletir o contexto completo.
-- **Melhoria contínua.** Podemos atualizar os modelos de IA e bases de conhecimento. A qualidade e estilo das respostas podem evoluir.
+- A Luni não é humana. As respostas são geradas por modelos de IA treinados com literatura científica e informação de saúde.
+- As respostas podem ser imprecisas. O conteúdo gerado por IA pode conter erros. Verifique sempre informação de saúde com um profissional qualificado.
+- Deteção de emergências. O Serviço inclui deteção automática de palavras-chave de emergência. Quando detetadas, a conversa é pausada e são apresentados contactos de emergência (112, SNS 24). Isto não substitui ligar diretamente para os serviços de emergência.
+- Moderação de conteúdo. As respostas da IA são filtradas para remover linguagem diagnóstica, sugestões de prescrição e outro conteúdo potencialmente prejudicial.
+- Sem garantias de memória. Embora o Serviço mantenha o histórico de conversas, as respostas da IA podem nem sempre refletir o contexto completo.
+- Melhoria contínua. Podemos atualizar os modelos de IA e bases de conhecimento. A qualidade e estilo das respostas podem evoluir.
+
+Serviços de Inteligência Artificial: A Lunia utiliza serviços de inteligência artificial fornecidos pela Anthropic PBC para processar as tuas conversas com a Luni. Ao utilizares a aplicação, consentes expressamente que as tuas mensagens sejam processadas pela Anthropic ao abrigo das condições descritas na nossa Política de Privacidade.
 
 ## 8. Fórum Comunitário
 
-Ao participar no fórum comunitário, concorda em ser respeitosa, não fornecer conselhos médicos, não partilhar informação pessoal identificável e respeitar as diretrizes da comunidade. Todas as publicações são revistas por moderação IA e podem ser revistas por moderadores humanos. O Serviço verifica automaticamente as publicações para informação pessoal identificável e pode redigi-la antes da publicação.
+Ao participar no fórum comunitário, concorda em ser respeitosa, não fornecer conselhos médicos, não partilhar informação pessoal identificável, e respeitar as diretrizes da comunidade. Todas as publicações são revistas por moderação IA e podem ser revistas por moderadores humanos. O Serviço verifica automaticamente as publicações para informação pessoal identificável e pode redigi-la antes da publicação.
 
 ## 9. Subscrições e Pagamentos
 
@@ -67,7 +69,7 @@ Todo o conteúdo da app LUNIA é propriedade da LUNIA ou dos seus licenciantes. 
 
 ## 11. Eliminação de Conta e Portabilidade de Dados
 
-Pode eliminar a sua conta a qualquer momento em **Perfil → Eliminar Conta** ou contactando hello@lunia.health. Após a eliminação: todos os dados locais são imediatamente apagados do seu dispositivo, a eliminação de dados no servidor propaga-se em 72 horas, as publicações no fórum são anonimizadas, os registos de auditoria de consentimento são mantidos conforme exigido por lei. Antes de eliminar, pode exportar os seus dados em **Perfil → Exportar os Meus Dados**.
+Pode eliminar a sua conta a qualquer momento em Perfil → Eliminar Conta ou contactando hello@lunia.health. Após a eliminação: todos os dados locais são imediatamente apagados do seu dispositivo, a eliminação de dados no servidor é propagada em 72 horas, as publicações no fórum são anonimizadas, os registos de auditoria de consentimento são mantidos conforme exigido por lei. Antes de eliminar, pode exportar os seus dados em Perfil → Exportar os Meus Dados.
 
 ## 12. Limitação de Responsabilidade
 
@@ -75,27 +77,11 @@ Na medida máxima permitida pela lei aplicável, a LUNIA não será responsável
 
 ## 13. Serviços de Emergência
 
-A app LUNIA inclui uma funcionalidade de segurança que deteta palavras-chave de emergência em conversas e apresenta números de contacto de emergência locais (112, SNS 24). Esta funcionalidade:
-
-- NÃO contacta automaticamente os serviços de emergência em seu nome
-- NÃO substitui ligar diretamente para os serviços de emergência
-- NÃO monitoriza as suas conversas em tempo real fora das sessões de chat ativas
-- NÃO é uma linha de crise ou serviço de resposta a emergências
-
-**Em caso de emergência médica, ligue para o 112 imediatamente.**
+A app LUNIA inclui uma funcionalidade de segurança que deteta palavras-chave de emergência em conversas e apresenta números de contacto de emergência locais (112, SNS 24). Esta funcionalidade NÃO contacta automaticamente os serviços de emergência em seu nome, NÃO substitui ligar diretamente para os serviços de emergência, NÃO monitoriza as suas conversas em tempo real fora das sessões de chat ativas, e NÃO é uma linha de crise ou serviço de resposta a emergências. Em caso de emergência médica, ligue para o 112 imediatamente.
 
 ## 14. Utilização Aceitável
 
-Ao utilizar a App, concorda em NÃO:
-
-- Utilizar a companheira IA para obter diagnósticos ou prescrições médicas
-- Partilhar relatórios de saúde gerados por IA como se fossem avaliações médicas profissionais
-- Fazer-se passar por profissional de saúde no fórum comunitário
-- Tentar manipular o sistema de deteção de emergências da IA
-- Utilizar ferramentas automatizadas ou bots para interagir com a companheira IA
-- Fazer engenharia reversa dos modelos de IA
-- Carregar dados de saúde falsos
-- Partilhar dados de saúde de terceiros sem o seu consentimento
+Ao utilizar a App, concorda em NÃO: utilizar a companheira IA para obter diagnósticos ou prescrições médicas; partilhar relatórios de saúde gerados por IA como se fossem avaliações médicas profissionais; fazer-se passar por profissional de saúde no fórum comunitário; tentar manipular o sistema de deteção de emergências; utilizar ferramentas automatizadas ou bots para interagir com a companheira IA; fazer engenharia reversa dos modelos de IA; carregar dados de saúde falsos; ou partilhar dados de saúde de terceiros.
 
 ## 15. Lei Aplicável e Litígios
 
