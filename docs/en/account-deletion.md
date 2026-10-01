@@ -10,6 +10,10 @@ You may delete your account at any time via Profile → Delete Account or by con
 
 **Deletion is permanent. Once the data is erased it cannot be recovered, by you or by us, so export anything you want to keep first.**
 
+## Deleting some data without closing your account
+
+You do not have to delete your account to remove data. In the app, under O meu espaco > Calendario, you can delete individual diary entries, and in the conversation history you can delete a conversation. Deleted entries are removed from our servers as well. You can also write to hello@lunia.health and ask us to remove specific data.
+
 ## What is kept, and for how long
 
 - Account data: until account deletion.

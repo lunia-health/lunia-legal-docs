@@ -10,6 +10,10 @@ Pode eliminar a sua conta a qualquer momento em Perfil → Eliminar Conta ou con
 
 **A eliminação é permanente. Depois de os dados serem apagados não podem ser recuperados, nem por si nem por nós, por isso exporte primeiro o que quiser guardar.**
 
+## Eliminar alguns dados sem fechar a conta
+
+Não precisa de eliminar a conta para remover dados. Na app, em O meu espaço > Calendário, pode eliminar entradas individuais do diário, e no histórico de conversas pode eliminar uma conversa. As entradas eliminadas são removidas também dos nossos servidores. Também pode escrever para hello@lunia.health a pedir a remoção de dados específicos.
+
 ## O que é mantido, e durante quanto tempo
 
 - Dados de conta: até à eliminação da conta.
