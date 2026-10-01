@@ -9,3 +9,4 @@
 ## App
 * [Política de Privacidade da App](app-privacy-policy.md)
 * [Termos de Serviço da App](app-terms-of-service.md)
+* [Eliminação de Conta](account-deletion.md)
