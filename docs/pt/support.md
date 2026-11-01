@@ -25,7 +25,7 @@ Os reembolsos são tratados pela loja onde compraste: a Apple em reportaproblem.
 
 ## Apagar a conta
 
-Na app, em **Perfil → Conta → Apagar conta**. Antes, podes exportar os teus dados em **Ver os meus dados**, no mesmo ecrã. Mais detalhes em [Eliminação de Conta](account-deletion.md).
+Na app, em **Perfil → Conta → Apagar conta**. Antes, podes exportar os teus dados em **Exportar os meus dados**, no mesmo ecrã. Mais detalhes em [Eliminação de Conta](account-deletion.md).
 
 Apagar a conta não cancela a subscrição da loja: cancela-a primeiro, como explicado acima.
 

@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-_Última atualização: 16 de abril de 2026_
+_Última atualização: 1 de novembro de 2026_
 
 ## 1. Âmbito
 
@@ -9,117 +9,151 @@ Esta Política de Privacidade aplica-se à aplicação móvel LUNIA ("a App") di
 ## 2. Responsável pelo Tratamento
 
 Virtuous Conviction Lda. (a operar como LUNIA Health)
-Rua do Porto, n.º 37, 4925-347 Viana do Castelo, Portugal
 NIF: 517 193 787
 Email: hello@lunia.health
 Encarregado de Proteção de Dados (DPO): Jorge Daniel Araújo — hello@lunia.health
 
 ## 3. Dados que Recolhemos
 
-A LUNIA recolhe dados nas seguintes categorias:
+A LUNIA recolhe dados nas seguintes categorias. Todos ficam associados à sua conta. Não vendemos os seus dados e não os usamos para publicidade nem para a seguir noutras apps e sites (tracking).
 
 | Categoria | Dados e finalidade |
 |---|---|
-| **Conta e Autenticação** | Email, número de telefone (opcional), ID de utilizador, tokens JWT, método de autenticação — para criação de conta e sessão. |
-| **Perfil e Onboarding** | Nome de exibição, faixa etária, sintomas primários, estado emocional, fase hormonal, frequência de check-in, preferência de idioma — para personalização do serviço. |
+| **Conta e Autenticação** | Email, ID de utilizador, tokens de sessão, segredo de dois fatores (encriptado) e método de autenticação; se iniciar sessão com Google, Apple ou Facebook, o nome, email e fotografia dessa conta e, da Google ou do Facebook, a data de nascimento, se o permitir — para criar a conta e a sessão, e a data de nascimento para o funcionamento da app e para personalizar o serviço. Se entrar com a Apple, guardamos, cifrado, um token que a Apple emite para a LUNIA, apenas para o podermos revogar quando apagar a conta. |
+| **Perfil e Onboarding** | Nome de exibição, faixa etária ou data de nascimento, sintomas primários, estado emocional, fase hormonal ou de vida (incluindo gravidez), frequência de check-in, preferência de idioma, estado da relação e se tem filhos — para o funcionamento da app e para personalizar o serviço. |
+| **Perfil de Saúde** | Condições médicas (como SOP ou endometriose), cirurgias relevantes, alergias e outras condições que indicar — para adaptar a informação que a Luni lhe dá. |
+| **Medicação e Contraceção** | Medicamentos, doses, horários, tomas registadas e respetivos lembretes; método contracetivo e terapêutica hormonal — para lembretes e para contexto de saúde. |
+| **Calendário, Consultas e Lembretes** | Eventos do calendário, consultas, pedidos de consulta (incluindo o motivo que escreve) e lembretes agendados — para organizar a sua saúde e enviar lembretes. |
 | **Diário de Sintomas e Saúde** | Registos de sintomas (18 códigos com severidade), estado emocional por entrada, notas em texto livre, data e fonte da entrada — para acompanhamento de padrões de saúde. |
-| **Dados de Wearables e Biométricos** | Sono (minutos totais, fases), frequência cardíaca, passos diários, fluxo menstrual, minutos de mindfulness, contagem de afrontamentos e suores noturnos — via Apple HealthKit / Google Health Connect. Requer consentimento explícito. |
+| **Dados de Wearables e Biométricos** | Sono (minutos totais, fases), frequência cardíaca, frequência cardíaca em repouso, passos diários, fluxo menstrual, minutos de mindfulness, contagem de afrontamentos e suores noturnos — via Apple HealthKit / Google Health Connect. Com o mesmo consentimento, as medições noturnas: saturação de oxigénio, variabilidade da frequência cardíaca, frequência respiratória e temperatura do pulso (da pele, durante a noite; esta só no iPhone). Usamos estes dados para dar contexto à Luni e, só se incluir os dados do dispositivo numa partilha, no relatório que mostra a um profissional de saúde. Requer o seu consentimento explícito para os dados de saúde do dispositivo (Apple Health / Health Connect). |
 | **Conversas e Interação com IA** | Mensagens de chat (utilizador + respostas IA), modo de conversa, referências RAG, metadados de deteção de red-flag, metadados de filtro de output — para funcionamento da companheira IA. |
 | **Timeline Extraída por IA** | Sintomas extraídos de conversas, referências temporais, fatores contextuais, score de confiança IA, status de confirmação — para análise automatizada de padrões de saúde. |
-| **Relatórios Clínicos** | Tipo de relatório, respostas a entrevistas, narrativa de padrões gerada por IA, perguntas sugeridas, exportação PDF (link com 48h de validade) — para preparação de consultas médicas. |
+| **Dados Derivados** | Gerados nos nossos servidores a partir do que partilha: factos de saúde, resumos de conversas, representações numéricas do texto (embeddings) para pesquisa, a emoção detetada nas mensagens e os padrões que a Luni observa ao longo do tempo — tratados como dados de saúde. |
+| **Relatórios Clínicos** | Tipo de relatório, respostas a entrevistas, narrativa de padrões gerada por IA, perguntas sugeridas e o PDF do relatório — para preparação de consultas médicas. A ligação que enviamos por email a um profissional abre uma vista do que escolheu partilhar, não um PDF. Vem com um código, abre uma só vez e expira ao fim de 48 horas. Deixa de funcionar se a parar, eliminar a conta ou retirar o consentimento para partilha com clínicas. |
 | **Telemetria Comportamental (Tempo)** | Intervalos de interação, taxas de conclusão, transições de ecrã, velocidade de escrita, embedding comportamental — rastreia ritmo, NUNCA conteúdo. Requer consentimento opt-in. |
-| **Fórum Comunitário** | Publicações, modo anónimo, score de moderação IA, redação automática de PII, denúncias — para suporte comunitário entre pares. |
-| **Subscrição e Faturação** | Plano de subscrição, datas de faturação, processamento de pagamento via Stripe — a LUNIA NÃO armazena números de cartão de crédito. |
+| **Companion Circle** | O email e o nome ou etiqueta (por exemplo, «Companheiro») da pessoa que convida, e as notas que lhe envia, guardadas encriptadas — para a ligar a quem a acompanha. Essa pessoa não vê os seus dados de saúde. |
+| **Fórum Comunitário** | Publicações, modo anónimo, score de moderação IA, redação automática de PII, denúncias (só o motivo), membros que bloqueou e o nome com que os bloqueou — para suporte comunitário entre pares. |
+| **Opiniões sobre a App** | Os comentários que deixa sobre a app e sobre as respostas da Luni, com o seu identificador de utilizadora — para melhorar o serviço. |
+| **Subscrição e Faturação** | Plano de subscrição, datas de faturação e estado da subscrição. Na App, o pagamento é feito à Apple (App Store) ou à Google (Google Play) e o estado da subscrição é gerido pela RevenueCat; na web, o pagamento é processado pela Stripe. A LUNIA NÃO armazena números de cartão de crédito. |
+| **Notificações** | Token de notificações push do telemóvel, um identificador do dispositivo para notificações e o registo de entregas — para lhe enviar notificações. |
 | **Dados de Dispositivo e Técnicos** | Sistema operativo, versão da app, locale, dimensões de ecrã, modelo do dispositivo, tipo de rede — requer consentimento opt-in. |
-| **Identificador de Dispositivo (Prevenção de Abuso)** | Um único identificador de dispositivo fornecido pelo sistema operativo (ANDROID_ID no Android, identifierForVendor no iOS), recolhido quando cria conta ou inicia sessão. Nunca é guardado tal como nos é dado: é imediatamente convertido num código irreversível com uma chave secreta do servidor, e apenas esse código é conservado, pelo que não pode ser revertido nem cruzado com os registos de qualquer outro serviço. Usamo-lo para um único fim — perceber quando uma conta suspensa regressa com um email novo — ao abrigo do nosso interesse legítimo em manter a comunidade segura (RGPD art. 6.º, n.º 1, al. f)). Não é usado para publicidade, estatísticas nem para a seguir entre aplicações, e não é combinado com o modelo do telemóvel, o tamanho do ecrã ou qualquer outro atributo para criar um perfil do seu dispositivo. Conservado durante 12 meses após a última utilização do dispositivo, sendo depois eliminado automaticamente. |
-| **Localização** | Localização aproximada (país, região) derivada da rede — utilizada apenas para orientação de saúde específica por região e conformidade regulatória. Requer consentimento explícito opt-in. |
-| **Consultas a APIs de Investigação Externa** | Termos de pesquisa anonimizados enviados para bases de dados científicas externas (PubMed, arXiv, bioRxiv, CrossRef) para recuperar literatura revista por pares para respostas da IA. Nenhum dado de saúde pessoal é transmitido; as consultas são anonimizadas antes do envio. Requer consentimento opt-in. |
-| **Consultas à API de Nutrição** | Consultas de alimentação e nutrição anonimizadas enviadas ao Spoonacular para funcionalidades de orientação nutricional. As consultas são anonimizadas antes do envio. Requer consentimento opt-in. |
+| **Análises de Utilização** | Contagem de sessões, ecrãs visitados e fluxos concluídos, associados à sua conta, para melhorar a app. Só com o seu consentimento; se o retirar, apagamos estes registos. |
+| **Identificador de Dispositivo (Prevenção de Abuso)** | Um único identificador de dispositivo fornecido pelo sistema operativo (ANDROID_ID no Android, identifierForVendor no iOS), enviado logo no início, antes de qualquer consentimento, e sempre que cria conta ou inicia sessão. Nunca é guardado tal como nos é dado: é imediatamente convertido num código irreversível com uma chave secreta do servidor, e apenas esse código é conservado, pelo que não pode ser revertido nem cruzado com os registos de qualquer outro serviço. Usamo-lo para um único fim — perceber quando uma conta suspensa regressa com um email novo — ao abrigo do nosso interesse legítimo em manter a comunidade segura (RGPD art. 6.º, n.º 1, al. f)). Não é usado para publicidade, estatísticas nem para a seguir entre aplicações, e não é combinado com o modelo do telemóvel, o tamanho do ecrã ou qualquer outro atributo para criar um perfil do seu dispositivo. Conservado durante 12 meses após a última utilização do dispositivo, sendo depois eliminado automaticamente. |
+| **Endereço IP** | O endereço IP do seu telemóvel fica registado nas sessões iniciadas, nos registos de segurança, nos pedidos de recuperação de palavra-passe e de verificação de email, e nos registos de consentimento — para segurança da conta e prevenção de fraude, ao abrigo do nosso interesse legítimo (RGPD art. 6.º, n.º 1, al. f)), e para provar o consentimento. |
+| **Relatórios de Erro** | Quando a app encontra um erro, envia-nos o código do erro, o ecrã, o tipo de erro, a versão da app e a plataforma, nunca conteúdo nem dados de saúde; antes de iniciar sessão, sem qualquer identificação. Ao abrigo do nosso interesse legítimo em manter a app a funcionar (RGPD art. 6.º, n.º 1, al. f)). |
+| **Localização** | País e fuso horário: os que escolhe (ou, até escolher, os que o telemóvel indica) acompanham cada mensagem para a Luni e ficam no seu perfil. São necessários para lhe prestar o serviço — mostrar os números de emergência certos e respeitar a sua hora local (RGPD art. 6.º, n.º 1, al. b)) — e por isso não dependem de consentimento. Cidade: opcional, só com o seu consentimento de localização, guardamos a cidade que escolher numa lista, como as coordenadas do centro da cidade; se retirar o consentimento, apagamos a cidade. Nunca usamos o GPS nem a localização exata do telemóvel. |
+| **Consultas a APIs de Investigação Externa** | Pesquisas ao PubMed para encontrar estudos revistos por pares que a Luni cita: termos médicos retirados da sua mensagem ou, quando não há termos médicos, um excerto curto da sua mensagem, depois de retirados nomes e identificadores. As pesquisas não levam identificadores da sua conta. Só com o seu consentimento para pesquisa. |
+| **Consultas à API de Nutrição** | Pesquisas de receitas enviadas ao Spoonacular, com a dieta e as intolerâncias que indicar, sem nada que a identifique. Requer consentimento opt-in. |
 
 ## 4. Como Obtemos o Seu Consentimento
 
-Quando utiliza a app LUNIA pela primeira vez, pedimos o seu consentimento explícito antes de recolher quaisquer dados. O nosso sistema de consentimento é granular — escolhe exatamente que categorias de dados podemos processar:
+Antes de tratarmos quaisquer dados de saúde, pedimos o seu consentimento explícito, no cartão de privacidade que aparece no início. Até lá, só saem do telemóvel o identificador do dispositivo usado para prevenir abusos e relatórios de erro anónimos (secção 3). O consentimento é granular — escolhe que categorias podemos tratar:
 
-- Dados de Saúde Essenciais — registo de sintomas, dados do ciclo, conversas com IA (necessário para o funcionamento da app)
-- Analytics — estatísticas de utilização anónimas
-- Experiência Adaptativa — acompanhamento de tempo comportamental
-- Informação do Dispositivo — versão do SO, modelo, tamanho de ecrã
-- Notificações — entrega e timing inteligente de notificações push
-- Saúde via Wearables — sincronização Apple HealthKit / Google Health Connect
-- Localização — localização aproximada para orientação específica por região e conformidade
-- APIs de Investigação Externa — consultas anonimizadas ao PubMed, arXiv, bioRxiv, CrossRef para respostas da IA baseadas em literatura
-- API de Nutrição — consultas anonimizadas ao Spoonacular para funcionalidades de orientação nutricional
+- Dados de saúde — registo de sintomas, ciclo, humor, medicação e restantes registos de saúde (necessário para a app funcionar; é dado quando aceita o cartão de privacidade).
+- Processamento por IA — as suas mensagens são processadas pelo Claude na Amazon Web Services, na UE (secção 7); obrigatório para conversar com a Luni.
+- Análises — estatísticas de utilização associadas à sua conta (que funcionalidades usa e quando), para melhorarmos a app. Não são anónimas. Opcional.
+- Experiência adaptativa — o ritmo com que usa a app (tempo entre interações, ecrãs visitados, velocidade de escrita), nunca o conteúdo, para adaptar a app ao seu ritmo. Opcional.
+- Informação do dispositivo — versão do sistema operativo, modelo, tamanho de ecrã e tipo de rede. Opcional.
+- Mensagens da Luni — só com este consentimento a Luni lhe escreve por iniciativa própria: olás, seguimentos, previsões do ciclo e sugestões. Não vem ativado por defeito. Os lembretes que marca (medicação, consultas e outros) fazem parte do serviço que pediu e chegam sempre, desde que o telemóvel permita notificações; recebe também sempre os avisos de segurança, a resposta às mensagens que envia e os avisos sobre o acesso aos seus dados.
+- Dados de saúde do dispositivo — sincronização com Apple HealthKit / Google Health Connect, incluindo as medições noturnas descritas na secção 3. Opcional.
+- A sua cidade — guardar a cidade que escolher numa lista (o centro da cidade). Opcional; se o retirar, apagamos a cidade. O país e o fuso horário não dependem deste consentimento (secção 3).
+- APIs de investigação científica — pesquisas ao PubMed para as citações da Luni, com termos médicos ou um excerto curto da sua mensagem sem nomes nem identificadores (secção 5). Opcional.
+- API de nutrição — pesquisas de receitas ao Spoonacular (secção 5). Opcional.
+- Contribuir para a melhoria da LUNI — permitiria que profissionais de saúde revissem respostas da Luni nas suas conversas. De momento esta revisão está desligada e nenhuma conversa real é revista. Opcional.
+- Partilha com um profissional ou clínica — fica registada sempre que partilha um relatório com um profissional de saúde; a partilha é o consentimento e abrange apenas esse relatório.
+- Assistente de IA (para quem acompanha) — quem a acompanha no Companion Circle consente, ao aceitar o convite, que as perguntas que faz sejam processadas pelo Claude, na UE.
 
-Pode alterar qualquer consentimento a qualquer momento em Perfil → Definições de Privacidade. A retirada do consentimento interrompe a recolha futura de dados para essa categoria.
+Pode alterar qualquer consentimento a qualquer momento em Perfil → Conta → Privacidade. Ao retirar um consentimento, deixamos de recolher dados dessa categoria e, na maioria das categorias, apagamos os que já tínhamos; a app indica o que acontece antes de confirmar.
 
 ## 5. Fornecedores de Serviços Terceiros
 
-Partilhamos dados com os seguintes fornecedores:
+Partilhamos dados com os seguintes fornecedores e destinatários, cada um apenas para o fim indicado e nunca para fins próprios desses destinatários:
 
-- Hetzner Cloud (Alemanha, UE) — infraestrutura de backend, todos os dados do servidor
-- Anthropic Claude API (EUA) — processamento de conversas IA, com Cláusulas Contratuais Padrão e consentimento explícito
-- Stripe (EUA/UE) — processamento de pagamentos
-- Google Firebase (EUA) — base de dados website e analytics
-- Apple HealthKit / Google Health Connect — dados de saúde permanecem no dispositivo + nossos servidores
-- Expo EAS (EUA) — compilação e atualizações da app
+- Hetzner Online (Alemanha, UE) — servidores, base de dados e cópias de segurança; corre também o modelo de IA local e o serviço que retira os seus dados identificativos antes do envio à IA.
+- Amazon Web Services (AWS, apenas regiões da UE) — executa o Claude, da Anthropic, através do Amazon Bedrock. Recebe o texto das suas mensagens, sem o seu nome e contactos, e o resumo de contexto descrito na secção 7, apenas com o seu consentimento para o processamento por IA.
+- Resend — envia os emails da conta e do serviço: verificação de email, recuperação de palavra-passe, códigos de dois fatores, avisos legais, o aviso de que a sua exportação de dados está pronta, convites e avisos de lembrete. Recebe o seu endereço de email e avisos genéricos (por exemplo, «Tens um lembrete na Lunia»), nunca conteúdo de saúde. Envia também os emails dirigidos a profissionais a seu pedido: o motivo que escreve num pedido de consulta, que segue para a clínica, e a ligação para o que partilhou com um profissional.
+- Slack (EUA) — avisos internos à equipa LUNIA: o aviso de que há um novo alerta de crise, sem dados pessoais (o alerta fica nos nossos servidores na UE, secção 6); as opiniões que deixa sobre a app, com o seu identificador de utilizadora e o comentário depois de retirados os dados que a identificam; e avisos dos seus pedidos de acesso ou de portabilidade dos dados, com o seu identificador.
+- Expo (EUA) — verifica se há atualizações da app sempre que a abre, e vê para isso o endereço IP do telemóvel; entrega as notificações push através do Apple Push Notification service (APNs) e do Google Firebase Cloud Messaging (FCM). Recebe o token de notificações do seu telemóvel e identificadores opacos para abrir o ecrã certo. O sistema do telemóvel recebe só um aviso genérico e uma categoria técnica (por exemplo, lembrete), nunca o sintoma, a medicação ou uma previsão.
+- Stripe (EUA/UE) — pagamentos com cartão das subscrições feitas na web. Os dados do cartão vão diretamente para a Stripe; a LUNIA não os vê nem os guarda. A Stripe guarda o seu email, o seu identificador LUNIA, as subscrições, faturas e pagamentos, sem dados de saúde, e conserva-os durante 10 anos, como exige a lei fiscal portuguesa (obrigação legal, RGPD art. 6.º, n.º 1, al. c), e art. 17.º, n.º 3, al. b)), mesmo depois de eliminar a conta.
+- RevenueCat (EUA) — o seu identificador de utilizadora e o histórico de compras da App Store / Google Play (produto, preço, datas), para gerir a subscrição. Não recebe nome, email nem dados de saúde. Apagados quando elimina a conta.
+- Apple (App Store) / Google (Google Play) — pagamento das subscrições compradas na App, como responsáveis independentes, segundo as suas próprias políticas de privacidade.
+- Google, Apple e Facebook (EUA) — apenas se iniciar sessão com uma destas contas. Recebemos o nome, o email e a fotografia dessa conta e, da Google ou do Facebook, a data de nascimento, se o permitir.
+- Apple HealthKit / Google Health Connect — com o seu consentimento, a app lê dados de saúde do telemóvel e envia-os para os nossos servidores. Não enviamos dados à Apple nem à Google por esta via.
+- Firebase Hosting, da Google (EUA) — aloja a página do guia de opiniões que abre dentro da app e as páginas de transferência da app; vê o endereço IP do seu telemóvel.
+- Spoonacular (EUA) — pesquisas de receitas, com a dieta e as intolerâncias que indicar, sem nada que a identifique. Só com o seu consentimento para a API de nutrição.
+- PubMed, da National Library of Medicine (EUA) — pesquisas de estudos científicos para as citações da Luni: termos médicos retirados da sua mensagem ou, quando não há termos médicos, um excerto curto da sua mensagem, depois de retirados nomes e identificadores; sem identificadores da sua conta. Só com o seu consentimento para pesquisa.
+- Conteúdo de terceiros na Biblioteca e nas sugestões — as imagens são carregadas diretamente dos serviços que as alojam (YouTube, Vimeo, Apple, Spoonacular e os sites das capas), que veem o endereço IP do seu telemóvel. As ligações (Spotify, Apple Podcasts, PubMed, ClinicalTrials.gov e outras) abrem fora da app, e aplicam-se as regras desses serviços.
 
-## 6. Processamento por Inteligência Artificial
+## 6. Quem Pode Ver os Seus Dados
 
-As tuas conversas com a Luni são processadas por inteligência artificial fornecida pela Anthropic PBC (EUA), ao abrigo de Cláusulas Contratuais Padrão da UE. A Anthropic não utiliza as tuas conversas para treinar os seus modelos e elimina-os no prazo máximo de 30 dias.
+Os seus dados só são vistos por quem precisa deles para o fim indicado:
 
-As tuas mensagens são enviadas à Anthropic para gerar respostas. Não são enviados dados de perfil de saúde estruturados (condições, medicações, sintomas), email, telefone ou identificadores de conta.
+- A equipa LUNIA — quando a verificação de segurança deteta uma emergência, recebe um aviso interno sem dados pessoais; o alerta (o tipo, a gravidade e uma referência pseudónima, nunca o seu texto) fica nos nossos servidores na UE e é lido na nossa consola de administração. Fazemo-lo com base no seu consentimento explícito para o processamento por IA (RGPD art. 9.º, n.º 2, al. a)) e, só quando não puder consentir, para proteger os seus interesses vitais (art. 9.º, n.º 2, al. c)). Os alertas são conservados durante 2 anos depois de resolvidos e apagados antes disso se eliminar a conta. A equipa recebe também as opiniões que deixa sobre a app e os seus pedidos de dados, para lhe dar apoio e operar o serviço. As ferramentas de administração não mostram o texto das suas conversas com a Luni. O acesso direto aos servidores está limitado à equipa técnica.
+- Moderadores do fórum — a equipa LUNIA e profissionais de saúde com funções de moderação veem as publicações retidas para revisão antes de serem publicadas.
+- Um profissional de saúde ou uma clínica — só se lhe partilhar um relatório ou o autorizar, e só o que partilhou ou autorizou. Um pedido de consulta envia à clínica o motivo que escreveu. Se escolher, pode incluir também o seu historial médico e alergias, a sua contraceção, as tomas registadas nos seus lembretes de medicação (com os nomes que lhes deu) e os sinais vitais do seu dispositivo (variabilidade da frequência cardíaca, oxigénio no sangue, frequência respiratória e, se partilhar o ciclo, a temperatura do pulso). Estas categorias estão sempre desligadas até as ligar, e nunca entram numa partilha que já tenha feito. Enviamos-lhe um email na primeira vez que um profissional abre uma partilha sua, a dizer quando e como foi aberta. O email não indica quem a abriu nem inclui dados de saúde, e não pode ser desativado.
+- Quem a acompanha no Companion Circle — só as notas que lhe envia e conteúdos educativos; não vê os seus dados de saúde.
 
-Para mais informações: https://www.anthropic.com/privacy
+## 7. Processamento por Inteligência Artificial
 
-## 7. Onde os Seus Dados São Armazenados
+As suas conversas com a Luni são processadas pelo Claude, um modelo de inteligência artificial criado pela Anthropic, que a Amazon Web Services (AWS) executa por nossa conta através do Amazon Bedrock, em centros de dados na União Europeia (Irlanda, Alemanha, Suécia, França, Itália e Espanha). A AWS trata-as apenas por nossa conta, ao abrigo do seu Aditamento relativo ao Tratamento de Dados (RGPD). Configurámos a AWS para não guardar as suas mensagens nem as respostas da Luni depois de produzida a resposta, e estas não são usadas para treinar nenhum modelo. A Anthropic criou o modelo, mas não o executa: não recebe as suas conversas, e a LUNIA já não envia dados ao serviço da própria Anthropic. Até 17 de outubro de 2026, as conversas eram processadas pela Anthropic PBC (EUA), através desse serviço, ao abrigo de Cláusulas Contratuais Padrão da UE. A Anthropic elimina o que recebeu nesse período no prazo de 30 dias, exceto as mensagens que os seus sistemas automáticos de segurança tenham assinalado, que pode guardar até 2 anos. Só processamos as suas mensagens desta forma com o seu consentimento para o processamento por IA, sem o qual não é possível conversar com a Luni.
 
-Dispositivo móvel: Perfil, sintomas, histórico de chat e dados comportamentais são armazenados localmente no seu dispositivo usando armazenamento encriptado (iOS Keychain / Android Keystore para credenciais; AsyncStorage para preferências não sensíveis). Servidores europeus: Os dados do backend são armazenados em servidores Hetzner Cloud na Alemanha (UE). Os seus dados de saúde nunca saem da União Europeia, salvo se consentir no processamento IA externo.
+As suas mensagens são enviadas à AWS para gerar as respostas da Luni, depois de retirados automaticamente o seu nome e contactos. Os seus registos de saúde propriamente ditos não são enviados. Para que a Luni a conheça, segue com cada mensagem um breve resumo preparado nos nossos servidores: factos de saúde que mencionou à Luni (como condições, medicação, alergias, sintomas e objetivos), retirando antes do texto livre os dados que a identificam; o seu estado de espírito como categoria; a data de início do último período, o dia e a fase do ciclo e a data prevista do próximo período; resumos de conversas anteriores e resumos semanais, também sem os dados que a identificam; até dois padrões que a Luni observou nos seus registos; o seu país e fuso horário; e, quando pergunta à Luni o que ela sabe sobre si, quantas vezes registou cada sintoma. O seu diário dia a dia, as suas notas, os nomes dos seus médicos, o seu email e identificadores de conta não são enviados. Estes dados são pseudonimizados, não anónimos: não levam o seu nome, mas falam de si e da sua saúde, e por isso tratamo-los como dados de saúde.
 
-## 8. Segurança
+Para mais informações: https://docs.aws.amazon.com/bedrock/latest/userguide/data-protection.html
 
-Implementamos as seguintes medidas de segurança: encriptação AES-256-GCM em repouso para campos sensíveis; autenticação JWT com tokens de acesso de curta duração armazenados no keychain seguro do dispositivo; rate limiting em todos os endpoints da API; nenhum dado de saúde nos logs da aplicação; conversas IA encriptadas antes da persistência em base de dados; containers sem root para todos os serviços de backend; sanitização de input e filtragem de output nas respostas da IA.
+## 8. Onde os Seus Dados São Armazenados
 
-## 9. Retenção de Dados
+No seu telemóvel: a app guarda uma cópia dos seus registos de saúde, conversas, ciclo, relatórios e dados de wearables, para funcionar sem rede. Esses dados são encriptados com uma chave guardada no cofre seguro do dispositivo (iOS Keychain / Android Keystore), onde ficam também as credenciais de sessão. As preferências sem dados de saúde, como o idioma ou o tema, ficam no armazenamento normal da app. Quando elimina a conta, os dados locais são apagados. Nos nossos servidores: os dados são guardados em servidores da Hetzner na Alemanha (UE), e as cópias de segurança também ficam na Hetzner, na UE. Os seus registos de saúde e as suas conversas não saem da União Europeia; o que sai, e porquê, está descrito na secção 15.
 
-Dados de conta: até à eliminação da conta. Conversas de onboarding: 30 dias após conclusão. Entradas do diário de sintomas: até à eliminação da conta ou pedido da utilizadora. Histórico de chat: até à eliminação da conta. Dados de wearables: cache local; sincronização com servidor até eliminação. Dados comportamentais Tempo: até retirada de consentimento ou eliminação de conta. Relatórios clínicos: até eliminação da conta; links PDF expiram após 48h. Publicações no fórum: até eliminação pela utilizadora ou moderação. Registos de auditoria de consentimento: mantidos indefinidamente (exigência regulamentar RGPD). Códigos de identificador de dispositivo (prevenção de abuso): 12 meses após a última utilização do dispositivo, sendo depois eliminados automaticamente.
+## 9. Segurança
 
-## 10. Os Seus Direitos
+Encriptamos com AES-256-GCM, antes de os guardar, os segredos de autenticação de dois fatores, as mensagens que envia às pessoas que a acompanham, as notas do seu estado emocional e a conversa de boas-vindas. As cópias de segurança são encriptadas. As suas conversas com a Luni e os seus registos de saúde estão protegidos por controlo de acesso nos nossos servidores, mas ainda não são encriptados campo a campo. Os servidores ficam na Alemanha (Hetzner) e o acesso direto a eles está limitado à equipa técnica. A ligação entre a app e os nossos servidores é encriptada (TLS). Outras medidas: sessões com tokens de acesso de curta duração, guardados no cofre seguro do telemóvel; limites de pedidos em todos os endpoints da API; nenhum dado de saúde nos registos técnicos; serviços que correm sem privilégios de administrador; filtragem do que entra e do que sai da IA.
+
+## 10. Retenção de Dados
+
+Dados de conta: até à eliminação da conta. Conversas de onboarding: 30 dias após conclusão. Entradas do diário de sintomas: até à eliminação da conta ou pedido da utilizadora. Histórico de chat: até à eliminação da conta. Dados de wearables: até à eliminação da conta ou à retirada do consentimento. Dados comportamentais Tempo: até retirada de consentimento ou eliminação de conta. Relatórios clínicos: até eliminação da conta; a ligação enviada por email a um profissional expira ao fim de 48 horas. Exportações de dados (ficheiros para descarregar na app): 72 horas, sendo depois apagadas automaticamente. Publicações no fórum: até eliminação pela utilizadora ou moderação; quando elimina a conta, o texto e a autoria são apagados. Registos de consentimento e de aceitação dos termos (incluindo o endereço IP de onde os deu): conservados durante 3 anos após o fim da conta, para provar o consentimento e defender direitos em juízo; depois são apagados. Alertas de crise: 2 anos depois de resolvidos, e apagados antes disso se eliminar a conta. Códigos de identificador de dispositivo (prevenção de abuso): 12 meses após a última utilização do dispositivo, sendo depois eliminados automaticamente. Registos técnicos de funcionamento (atividade dos serviços, erros e um identificador pseudónimo da conta; nunca dados de saúde nem o conteúdo das mensagens), conservados ao abrigo do nosso interesse legítimo em operar e proteger o serviço: 25 dias, sendo depois eliminados automaticamente. Registos de diagnóstico de cada conversa com a Luni (identificador da conversa, intenção detetada, modelo utilizado, número de tokens, ferramentas usadas, resultado das verificações de segurança e tipo de emergência; nunca o conteúdo das mensagens): 30 dias, apagados na limpeza semanal seguinte, ou seja, até 37 dias, e eliminados antes disso quando apaga as suas conversas ou elimina a sua conta. Registos de pagamento na Stripe (cliente, faturas e pagamentos, sem dados de saúde): 10 anos, como exige a lei fiscal portuguesa (RGPD art. 6.º, n.º 1, al. c), e art. 17.º, n.º 3, al. b)), mesmo depois de eliminar a conta. Cópias de segurança (cópias encriptadas da nossa base de dados, guardadas apenas para recuperação em caso de desastre): até 31 dias, sendo depois apagadas automaticamente, incluindo dados que já tenha eliminado.
+
+## 11. Os Seus Direitos
 
 Ao abrigo do RGPD, tem direito a:
 
-- Direito de Acesso (Art. 15.º) — solicitar cópia legível dos seus dados pessoais (PDF) em Conta → Ver os meus dados. Responderemos no prazo de um mês.
+- Direito de Acesso (Art. 15.º) — solicitar cópia legível dos seus dados pessoais (PDF) em Perfil → Conta → Dados e privacidade → Ver os meus dados. Quando estiver pronta, enviamos-lhe um email a avisar e descarrega-a na app durante 72 horas. Responderemos no prazo de um mês.
 - Direito de Retificação (Art. 16.º) — corrigir dados inexatos ou incompletos. Pode editar os dados de perfil diretamente na app; para dados extraídos por IA, contacte hello@lunia.health.
-- Direito ao Apagamento (Art. 17.º) — eliminar a sua conta e todos os dados associados em Perfil → Eliminar Conta. A eliminação propaga-se em 72 horas.
-- Direito à Limitação do Tratamento (Art. 18.º) — desativar categorias de consentimento individuais a qualquer momento em Perfil → Definições de Privacidade.
-- Direito à Portabilidade dos Dados (Art. 20.º) — exportar os seus dados em formato JSON estruturado, transferível para outro serviço, em Conta → Exportar os meus dados.
+- Direito ao Apagamento (Art. 17.º) — eliminar a sua conta e os dados associados em Perfil → Conta → Dados e privacidade → Apagar conta. A conta é apagada de imediato e os restantes dados normalmente em poucos minutos, incluindo os dados na RevenueCat; se entrou com a Apple, pedimos à Apple que revogue o acesso da LUNIA ao seu ID Apple; o texto e a autoria das suas publicações no fórum são apagados; os dados que ainda estejam nas nossas cópias de segurança encriptadas são apagados automaticamente no prazo de 31 dias. Mantêm-se apenas os registos de consentimento e de aceitação dos termos, durante 3 anos, e os registos de pagamento que a Stripe guarda durante 10 anos por exigência da lei fiscal.
+- Direito à Limitação do Tratamento (Art. 18.º) — desativar categorias de consentimento individuais a qualquer momento em Perfil → Conta → Privacidade.
+- Direito à Portabilidade dos Dados (Art. 20.º) — exportar os seus dados em formato JSON estruturado, transferível para outro serviço, em Perfil → Conta → Dados e privacidade → Exportar os meus dados. O ficheiro não segue por email: enviamos-lhe um email a avisar que está pronto e descarrega-o na app durante 72 horas.
 - Direito de Oposição (Art. 21.º) — opor-se ao tratamento dos seus dados pessoais baseado em interesse legítimo, incluindo moderação automática de conteúdos e análise de padrões. Contacte hello@lunia.health para exercer este direito.
 - Direito a Não Ficar Sujeita a Decisões Individuais Automatizadas (Art. 22.º) — a LUNIA utiliza IA para extrair padrões de sintomas e gerar sugestões, mas estes são apenas auxiliares informativos, não constituem decisões médicas ou jurídicas. Pode solicitar revisão humana de quaisquer dados extraídos por IA.
-- Direito de Reclamação (Art. 77.º) — tem direito a apresentar reclamação a uma autoridade de controlo. Em Portugal, a autoridade competente é a Comissão Nacional de Proteção de Dados (CNPD): geral@cnpd.pt, www.cnpd.pt, Av. D. Carlos I, 134 — 1.º, 1200-651 Lisboa.
+- Direito de Reclamação (Art. 77.º) — tem direito a apresentar reclamação a uma autoridade de controlo. Em Portugal, a autoridade competente é a Comissão Nacional de Proteção de Dados (CNPD): geral@cnpd.pt, www.cnpd.pt.
 - Direito a Indemnização (Art. 82.º) — em caso de danos materiais ou imateriais resultantes de violação do RGPD, tem direito a obter indemnização do responsável pelo tratamento ou subcontratante. Contacte hello@lunia.health ou recorra aos tribunais portugueses.
 - Direito a Retirar o Consentimento (Art. 7.º, n.º 3) — pode retirar o seu consentimento a qualquer momento, sem afetar a licitude do tratamento efetuado com base no consentimento previamente concedido.
 
 Para exercer qualquer destes direitos, contacte hello@lunia.health. Responderemos no prazo de um mês (prorrogável até três meses em casos complexos, com notificação prévia).
 
-## 11. Privacidade de Menores
+## 12. Privacidade de Menores
 
-A app LUNIA foi concebida para mulheres adultas. Não recolhemos conscientemente dados de menores de 16 anos. Se descobrirmos que recolhemos dados de um menor de 16 anos, eliminaremos imediatamente esses dados.
+A app LUNIA destina-se a mulheres adultas, com pelo menos 18 anos (Termos de Serviço, secção 4). Não recolhemos conscientemente dados de menores de 18 anos. Se descobrirmos que recolhemos dados de uma menor de 18 anos, eliminaremos imediatamente esses dados.
 
-## 12. Aviso Médico
+## 13. Aviso Médico
 
 A LUNIA é uma companheira informativa de bem-estar. NÃO fornece diagnósticos médicos, prescrições ou recomendações de tratamento. A informação fornecida pela companheira IA (Luni) destina-se apenas a fins educativos. A LUNIA não substitui aconselhamento médico profissional. Em caso de emergência, ligue para o 112 (número europeu de emergência) ou SNS 24 (808 24 24 24 em Portugal).
 
-## 13. Notificação de Violação de Dados
+## 14. Notificação de Violação de Dados
 
 Em caso de violação de dados pessoais que represente um risco para os seus direitos e liberdades, iremos: notificar a Comissão Nacional de Proteção de Dados (CNPD) no prazo de 72 horas; notificar as utilizadoras afetadas sem demora injustificada se a violação representar risco elevado; documentar a violação, os seus efeitos e as medidas corretivas tomadas.
 
-## 14. Transferências Internacionais
+## 15. Transferências Internacionais
 
-Os seus dados são principalmente armazenados e processados na União Europeia (Hetzner Cloud, Alemanha). As transferências para fora da UE (Stripe, Firebase, Anthropic, Expo — todos nos EUA) são protegidas por Cláusulas Contratuais Padrão ou pelo Quadro de Privacidade de Dados UE-EUA. Os dados de saúde (categoria especial Art. 9.º RGPD) só são transferidos para fora da UE com o seu consentimento explícito e salvaguardas apropriadas.
+Os seus dados são guardados e tratados na União Europeia: nos servidores da Hetzner, na Alemanha, e, para a IA, na Amazon Web Services, em regiões da UE. Os seus registos de saúde, as suas conversas e os alertas de crise ficam na UE. Alguns dados saem da UE para os Estados Unidos, através dos destinatários descritos na secção 5 (Slack, Expo, Stripe, RevenueCat, Firebase Hosting, Google, Apple, Facebook, Spoonacular, PubMed). O aviso de crise enviado à equipa pelo Slack não leva dados pessoais, e as notificações push levam só um aviso genérico e uma categoria técnica (Expo). Os únicos que podem dizer algo sobre a sua saúde são, apenas com o seu consentimento, as pesquisas de receitas com a sua dieta e intolerâncias (Spoonacular) e as pesquisas científicas com termos ou um excerto curto da sua mensagem, sem nomes nem identificadores (PubMed). Estas transferências são protegidas por Cláusulas Contratuais Padrão da UE ou pelo Quadro de Privacidade de Dados UE-EUA.
 
-## 15. Cookies
+## 16. Cookies
 
-A app móvel LUNIA não utiliza cookies. O armazenamento local de dados utiliza AsyncStorage (dados não sensíveis) e o keychain seguro do dispositivo (credenciais e tokens). O website lunia.health utiliza cookies conforme descrito nas Definições de Cookies.
+A app móvel LUNIA não utiliza cookies. No telemóvel, os dados de saúde guardados pela app são encriptados com uma chave guardada no cofre seguro do dispositivo, onde ficam também as credenciais; as preferências sem dados de saúde ficam no armazenamento normal da app. O website lunia.health utiliza cookies conforme descrito nas Definições de Cookies.
 
-## 16. Contacto
+## 17. Profissionais de Saúde que Revêem Conteúdos
+
+Se é profissional de saúde e aprova um conteúdo da biblioteca, o seu nome e a sua especialidade aparecem publicamente como responsável pela revisão clínica desse conteúdo, na app e em lunia.health, só com o seu consentimento (RGPD art. 6.º, n.º 1, al. a)). Pode retirá-lo a qualquer momento em Perfil → Consentimentos; o seu nome deixa de aparecer e esses conteúdos saem da biblioteca pública.
+
+## 18. Contacto
 
 Para questões sobre esta Política de Privacidade, contacte-nos em hello@lunia.health.
