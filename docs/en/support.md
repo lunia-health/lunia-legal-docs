@@ -25,7 +25,7 @@ Refunds are handled by the store you bought from: Apple at reportaproblem.apple.
 
 ## Delete your account
 
-In the app, under **Profile → Account → Delete account**. You can export your data first with **View my data**, on the same screen. More in [Account Deletion](account-deletion.md).
+In the app, under **Profile → Account → Delete account**. You can export your data first with **Export my data**, on the same screen. More in [Account Deletion](account-deletion.md).
 
 Deleting your account does not cancel a store subscription: cancel it first, as above.
 

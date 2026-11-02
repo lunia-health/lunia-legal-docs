@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-_Última atualização: 16 de abril de 2026_
+_Última atualização: 1 de novembro de 2026_
 
 ## 1. Âmbito
 
@@ -40,36 +40,37 @@ Para utilizar a App, é necessário criar uma conta. É responsável por manter 
 
 ## 6. Dados de Saúde e Consentimento
 
-O Serviço processa dados de saúde de categoria especial conforme definido pelo Artigo 9.º do RGPD. Isto inclui os seus sintomas, informação do ciclo menstrual, estados emocionais, dados biométricos de wearables e conteúdo de conversas com IA relacionado com a sua saúde. Antes de processar quaisquer dados de saúde, obtemos o seu consentimento explícito através do ecrã de consentimento de privacidade na app. Pode retirar o consentimento a qualquer momento em Perfil → Definições de Privacidade.
+O Serviço processa dados de saúde de categoria especial conforme definido pelo Artigo 9.º do RGPD. Isto inclui os seus sintomas, informação do ciclo menstrual, estados emocionais, dados biométricos de wearables e conteúdo de conversas com IA relacionado com a sua saúde. Antes de processar quaisquer dados de saúde, obtemos o seu consentimento explícito através do ecrã de consentimento de privacidade na app. Pode retirar o consentimento a qualquer momento em Perfil → Conta → Privacidade.
 
 ## 7. Companheira IA (Luni)
 
 Ao utilizar a funcionalidade de companheira IA, compreende e aceita que:
 
-- A Luni não é humana. As respostas são geradas por modelos de IA treinados com literatura científica e informação de saúde.
+- A Luni não é humana. As respostas são geradas por modelos de inteligência artificial.
 - As respostas podem ser imprecisas. O conteúdo gerado por IA pode conter erros. Verifique sempre informação de saúde com um profissional qualificado.
 - Deteção de emergências. O Serviço inclui deteção automática de palavras-chave de emergência. Quando detetadas, a conversa é pausada e são apresentados contactos de emergência (112, SNS 24). Isto não substitui ligar diretamente para os serviços de emergência.
 - Moderação de conteúdo. As respostas da IA são filtradas para remover linguagem diagnóstica, sugestões de prescrição e outro conteúdo potencialmente prejudicial.
 - Sem garantias de memória. Embora o Serviço mantenha o histórico de conversas, as respostas da IA podem nem sempre refletir o contexto completo.
 - Melhoria contínua. Podemos atualizar os modelos de IA e bases de conhecimento. A qualidade e estilo das respostas podem evoluir.
+- Conteúdo de terceiros. A Luni pode sugerir podcasts, livros, receitas, vídeos ou estudos criados por terceiros. A LUNIA não os produz nem os subscreve, e não constituem aconselhamento médico. Quando abre um deles, este abre fora da App e aplicam-se os termos e a política de privacidade desse serviço.
 
-Serviços de Inteligência Artificial: A Lunia utiliza serviços de inteligência artificial fornecidos pela Anthropic PBC para processar as tuas conversas com a Luni. Ao utilizares a aplicação, consentes expressamente que as tuas mensagens sejam processadas pela Anthropic ao abrigo das condições descritas na nossa Política de Privacidade.
+Serviços de Inteligência Artificial: A Lunia utiliza o Claude, um modelo de inteligência artificial criado pela Anthropic e executado pela Amazon Web Services na União Europeia, para processar as suas conversas com a Luni. Antes de conversar com a Luni, pedimos o seu consentimento explícito para este processamento, nas condições descritas na nossa Política de Privacidade. Pode retirá-lo em Perfil → Conta → Privacidade; sem ele, não é possível conversar com a Luni.
 
 ## 8. Fórum Comunitário
 
-Ao participar no fórum comunitário, concorda em ser respeitosa, não fornecer conselhos médicos, não partilhar informação pessoal identificável, e respeitar as diretrizes da comunidade. Todas as publicações são revistas por moderação IA e podem ser revistas por moderadores humanos. O Serviço verifica automaticamente as publicações para informação pessoal identificável e pode redigi-la antes da publicação.
+Ao participar no fórum comunitário, concorda em ser respeitosa, não fornecer conselhos médicos, não partilhar informação pessoal identificável, e respeitar as diretrizes da comunidade. Todas as publicações são revistas por moderação IA e podem ser revistas por moderadores humanos. Pode denunciar qualquer publicação ou resposta; cada denúncia é revista por um moderador. Pode também bloquear um membro, deixando de ver as suas publicações e respostas com esse nome; a pessoa bloqueada não é avisada. Pode desbloquear em Perfil → Conta → Membros bloqueados. O Serviço verifica automaticamente as publicações para informação pessoal identificável e pode ocultá-la antes da publicação.
 
 ## 9. Subscrições e Pagamentos
 
-O Serviço oferece níveis de subscrição gratuitos e pagos. As subscrições pagas são processadas pelo Stripe. Pode cancelar a sua subscrição a qualquer momento na App ou contactando hello@lunia.health. O cancelamento entra em vigor no final do período de faturação atual. Para utilizadoras da UE, tem direito a desistir de uma compra de conteúdo digital no prazo de 14 dias, salvo se tiver consentido expressamente em começar a receber o serviço.
+O Serviço oferece níveis de subscrição gratuitos e pagos. Na App, as subscrições são compradas e pagas através da App Store (Apple) ou do Google Play, com a conta que usa nessa loja; na web, através da Stripe. A subscrição renova-se automaticamente no fim de cada período (mensal ou anual), ao preço indicado no momento da compra, salvo se a cancelar pelo menos 24 horas antes do fim do período em curso. Uma subscrição feita na App cancela-se nas definições de subscrições da App Store ou do Google Play (na App: Perfil → Conta → Gerir o teu plano → Gerir subscrição); uma subscrição feita na web cancela-se na App ou contactando hello@lunia.health. O cancelamento entra em vigor no final do período de faturação atual. Os reembolsos de compras feitas na App são tratados pela Apple ou pela Google, segundo as regras dessa loja. Para utilizadoras da UE, tem direito a desistir de uma compra de conteúdo digital no prazo de 14 dias, salvo se tiver consentido expressamente em começar a receber o serviço.
 
 ## 10. Propriedade Intelectual
 
-Todo o conteúdo da app LUNIA é propriedade da LUNIA ou dos seus licenciantes. Mantém a propriedade dos seus dados pessoais, registos de sintomas, mensagens de conversa e publicações no fórum. Os relatórios clínicos gerados pelo Serviço são seus — pode partilhá-los, descarregá-los e utilizá-los como desejar.
+Todo o conteúdo da app LUNIA é propriedade da LUNIA ou dos seus licenciantes. Os itens da Biblioteca e das sugestões (títulos, capas, descrições, receitas e vídeos) pertencem aos respetivos editores e são apresentados com uma ligação para a fonte original. Mantém a propriedade dos seus dados pessoais, registos de sintomas, mensagens de conversa e publicações no fórum. Os relatórios clínicos gerados pelo Serviço são seus — pode partilhá-los, descarregá-los e utilizá-los como desejar.
 
 ## 11. Eliminação de Conta e Portabilidade de Dados
 
-Pode eliminar a sua conta a qualquer momento em Perfil → Eliminar Conta ou contactando hello@lunia.health. Após a eliminação: todos os dados locais são imediatamente apagados do seu dispositivo, a eliminação de dados no servidor é propagada em 72 horas, as publicações no fórum são anonimizadas, os registos de auditoria de consentimento são mantidos conforme exigido por lei. Antes de eliminar, pode exportar os seus dados em Perfil → Exportar os Meus Dados.
+Pode eliminar a sua conta a qualquer momento em Perfil → Conta → Dados e privacidade → Apagar conta ou contactando hello@lunia.health. Após a eliminação: a sua conta é apagada de imediato e a sessão é terminada em todos os dispositivos; todos os dados locais são apagados do seu dispositivo ao mesmo tempo; os seus dados de saúde, as suas conversas com a Luni e as suas notificações são apagados dos nossos servidores, os seus dados na RevenueCat são apagados e qualquer subscrição paga através da web é cancelada, normalmente em poucos minutos — se algum dos nossos sistemas estiver indisponível, continuamos a tentar até confirmar; se entrou com a Apple, pedimos à Apple que revogue o acesso da LUNIA ao seu ID Apple; o texto e a autoria das suas publicações no fórum são apagados; os registos de consentimento e de aceitação dos termos são conservados durante 3 anos após o fim da conta, para provar o consentimento e defender direitos em juízo; depois são apagados; os registos de pagamento que a Stripe guarda para as suas faturas são mantidos durante 10 anos, como exige a lei fiscal. Os dados que ainda estejam nas nossas cópias de segurança encriptadas são apagados automaticamente no prazo de 31 dias. Uma subscrição comprada na App Store ou no Google Play não é cancelada ao eliminar a conta: cancele-a nas definições de subscrições da loja antes de eliminar a conta, para não voltar a ser cobrada. Antes de eliminar, pode exportar os seus dados em Perfil → Conta → Dados e privacidade → Exportar os meus dados.
 
 ## 12. Limitação de Responsabilidade
 
@@ -77,7 +78,7 @@ Na medida máxima permitida pela lei aplicável, a LUNIA não será responsável
 
 ## 13. Serviços de Emergência
 
-A app LUNIA inclui uma funcionalidade de segurança que deteta palavras-chave de emergência em conversas e apresenta números de contacto de emergência locais (112, SNS 24). Esta funcionalidade NÃO contacta automaticamente os serviços de emergência em seu nome, NÃO substitui ligar diretamente para os serviços de emergência, NÃO monitoriza as suas conversas em tempo real fora das sessões de chat ativas, e NÃO é uma linha de crise ou serviço de resposta a emergências. Em caso de emergência médica, ligue para o 112 imediatamente.
+A app LUNIA inclui uma funcionalidade de segurança que deteta palavras-chave de emergência em conversas e apresenta números de contacto de emergência locais (112, SNS 24). Quando deteta uma situação de crise, a equipa LUNIA recebe um aviso interno sem dados pessoais; o alerta (o tipo, a gravidade e uma referência pseudónima, nunca o texto da conversa) fica guardado nos nossos servidores na UE e é lido na nossa consola de administração. Esta funcionalidade NÃO contacta automaticamente os serviços de emergência em seu nome, NÃO substitui ligar diretamente para os serviços de emergência, NÃO monitoriza as suas conversas em tempo real fora das sessões de chat ativas, e NÃO é uma linha de crise ou serviço de resposta a emergências. Em caso de emergência médica, ligue para o 112 imediatamente.
 
 ## 14. Utilização Aceitável
 
