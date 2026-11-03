@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-_Última atualização: 1 de novembro de 2026_
+_Última atualização: 3 de novembro de 2026_
 
 ## 1. Âmbito
 

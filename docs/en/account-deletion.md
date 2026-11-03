@@ -1,6 +1,6 @@
 # Account Deletion — LUNIA
 
-_Last updated: November 1, 2026_
+_Last updated: November 3, 2026_
 
 LUNIA is developed by Virtuous Conviction Lda. (operating as LUNIA Health).
 
@@ -32,6 +32,7 @@ You do not have to delete your account to remove data. In the app, under My spac
 - Diagnostic traces of each chat turn (conversation ID, detected intent, model used, token counts, tools used, the safety check outcome and emergency type; never message content): 30 days, removed by the following weekly cleanup, so up to 37 days, and deleted earlier when you clear your chats or delete your account.
 - Payment records at Stripe (customer, invoices and payments, no health data): 10 years, as Portuguese tax law requires (GDPR Art. 6(1)(c) and Art. 17(3)(b)), even after you delete your account.
 - Backups (encrypted copies of our database, kept only for disaster recovery): up to 31 days, then deleted automatically, including data you have already deleted.
+- Codes for showing a report in the consulting room: 24 hours, or until you stop them; each open is recorded in your access history and deleted with your account.
 
 ## Questions
 
