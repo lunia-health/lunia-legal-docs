@@ -1,6 +1,6 @@
 # Terms of Service
 
-_Last updated: November 1, 2026_
+_Last updated: November 3, 2026_
 
 ## 1. Scope
 

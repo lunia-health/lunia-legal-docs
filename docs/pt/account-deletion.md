@@ -1,6 +1,6 @@
 # Eliminação de Conta — LUNIA
 
-_Última atualização: 1 de novembro de 2026_
+_Última atualização: 3 de novembro de 2026_
 
 A LUNIA é desenvolvida por Virtuous Conviction Lda. (a operar como LUNIA Health).
 
@@ -32,6 +32,7 @@ Não precisa de eliminar a conta para remover dados. Na app, em O meu espaço > 
 - Registos de diagnóstico de cada conversa com a Luni (identificador da conversa, intenção detetada, modelo utilizado, número de tokens, ferramentas usadas, resultado das verificações de segurança e tipo de emergência; nunca o conteúdo das mensagens): 30 dias, apagados na limpeza semanal seguinte, ou seja, até 37 dias, e eliminados antes disso quando apaga as suas conversas ou elimina a sua conta.
 - Registos de pagamento na Stripe (cliente, faturas e pagamentos, sem dados de saúde): 10 anos, como exige a lei fiscal portuguesa (RGPD art. 6.º, n.º 1, al. c), e art. 17.º, n.º 3, al. b)), mesmo depois de eliminar a conta.
 - Cópias de segurança (cópias encriptadas da nossa base de dados, guardadas apenas para recuperação em caso de desastre): até 31 dias, sendo depois apagadas automaticamente, incluindo dados que já tenha eliminado.
+- Códigos para mostrar um relatório no consultório: 24 horas, ou até os parar; o registo de cada abertura fica no seu histórico de acessos e é apagado com a sua conta.
 
 ## Questões
 
